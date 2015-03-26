@@ -1,4 +1,4 @@
-# Coded By Kids <==❤==> GitHub
+# Coded By Kids ❤ GitHub
 
 Good Git tutorials & resources
 ------------------------------
